@@ -1,0 +1,8 @@
+body { text-align: center; font-size: 1.5em }
+#stdin, #stdout {
+    display: inline-block; width:30%; height:50em; overflow-y: scroll; margin: 2em; border: 2px solid lightgrey; border-radius: 0.3em;
+    padding: 1em; outline: none; text-align: left; line-height: 1.5em; letter-spacing: 2px;
+}
+#stdin:focus { background: lightyellow; box-shadow: 3px 3px 1em grey }
+#compute { padding: 0.5em 1em; border-radius: 0.5em; background: lightgrey; outline: none;  }
+#compute:hover { cursor: pointer }
