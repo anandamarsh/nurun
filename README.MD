@@ -1,6 +1,6 @@
 ## View Demo
 
-https://amarshcanva.herokuapp.com/
+http://htmlpreview.github.io/?https://github.com/anandamarsh/nurun/blob/master/index.html
 
 
 
